@@ -14,6 +14,10 @@ https://github.com/ddetommaso/TobiiGlassesPyController
 #### The code that records the video with the eye tracker and receives the gp(gaze_point) as a text file
 ![Untitled](https://user-images.githubusercontent.com/69844293/182260090-94dcd6a4-f62a-4ca3-b833-25d53785a750.png)
 
+### 2. load_text_print_gp.py
+#### The code that load the text file (that is obtained by running get_video_text.py) and print gaze point on video
+
+https://user-images.githubusercontent.com/69844293/182446405-b08ef437-518e-46ed-84e2-a10b28530b6f.mp4
 
 
 ## Reference
