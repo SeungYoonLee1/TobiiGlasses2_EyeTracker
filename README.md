@@ -21,7 +21,10 @@ https://user-images.githubusercontent.com/69844293/182446405-b08ef437-518e-46ed-
 
 ### 3. live_scene_gaze_point.py
 #### Code that displays the image in real time and outputs a normalized gaze point
-[Screencast from 2022년 08월 04일 00시 17분 54초.webm](https://user-images.githubusercontent.com/69844293/182645817-0810259d-986f-4849-9454-4027a0fc0f92.webm)
+
+[live_scene_gaze_point.webm](https://user-images.githubusercontent.com/69844293/182646109-4c17720c-c278-4a22-9740-8b9920fb20dd.webm)
+
+
 
 ## Reference
 ```
