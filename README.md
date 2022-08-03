@@ -19,6 +19,9 @@ https://github.com/ddetommaso/TobiiGlassesPyController
 
 https://user-images.githubusercontent.com/69844293/182446405-b08ef437-518e-46ed-84e2-a10b28530b6f.mp4
 
+### 3. live_scene_gaze_point.py
+#### Code that displays the image in real time and outputs a normalized gaze point
+[Screencast from 2022년 08월 04일 00시 17분 54초.webm](https://user-images.githubusercontent.com/69844293/182645817-0810259d-986f-4849-9454-4027a0fc0f92.webm)
 
 ## Reference
 ```
