@@ -24,7 +24,10 @@ https://user-images.githubusercontent.com/69844293/182446405-b08ef437-518e-46ed-
 
 [live_scene_gaze_point.webm](https://user-images.githubusercontent.com/69844293/182646109-4c17720c-c278-4a22-9740-8b9920fb20dd.webm)
 
+### 4. save_frame_per_second.py
+#### Save the frame every second while displaying the gp on the screen in real time.
 
+[save_frame_per_second.webm](https://user-images.githubusercontent.com/69844293/183244315-0daf7af2-a094-4b15-98d3-ea8966049e22.webm)
 
 ## Reference
 ```
